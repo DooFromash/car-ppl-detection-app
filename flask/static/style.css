@@ -79,7 +79,7 @@ tbody tr:hover {
 		}
 
 		img {
-			width: 50%;
+			width: auto;
 			height: auto;
 		  }
 
@@ -100,8 +100,8 @@ tbody tr:hover {
             height: 50%;
 
 			margin: auto;
-			margin-bottom: 50px;
-			margin-top: 50px;
+			margin-bottom: 20px;
+			margin-top: 20px;
         }
 
 		form {
@@ -159,14 +159,14 @@ tbody tr:hover {
 			  
 			  @keyframes gradientBackground {
 				0% {
-				  background: linear-gradient(45deg, #f5f5f5cf, #549afc, #1c9cf8);
+				  background: linear-gradient(45deg, #f5f5f5cf, #fcbe54, #ffb300);
 				  background-size: 400% 400%;
 				}
 				50% {
 				  background-position: 100% 0%;
 				}
 				100% {
-				  background: linear-gradient(45deg, #6bd8f6, #71abf7);
+				  background: linear-gradient(45deg, #f6d66b, #f7900a);
 				  background-size: 400% 400%;
 				  background-position: 0% 100%;
 				}
