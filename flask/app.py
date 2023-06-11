@@ -1,12 +1,10 @@
 from flask import Flask,render_template,redirect,request
 from ultralytics import YOLO
-import pandas as pd
-import torch
-import numpy as np 
-from tempfile import NamedTemporaryFile
 import os
 import atexit
 import shutil
+import cv2
+import torch
 
 
 # Model
