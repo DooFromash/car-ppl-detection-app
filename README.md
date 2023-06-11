@@ -1,4 +1,6 @@
-# car-ppl-detection-app <img width="915" alt="Screenshot 2023-06-11 232255" src="https://github.com/DooFromash/car-ppl-detection-app/assets/109512836/4a2f15ae-f9dd-45b0-9fbe-7a083afde19e">
+# car-ppl-detection-app 
+
+<img width="915" alt="Screenshot 2023-06-11 232255" src="https://github.com/DooFromash/car-ppl-detection-app/assets/109512836/4a2f15ae-f9dd-45b0-9fbe-7a083afde19e">
 
 
 ### :computer: App Url: http://object-detection-app.ajd7gvfbfdhfb8cg.westeurope.azurecontainer.io:5000/
