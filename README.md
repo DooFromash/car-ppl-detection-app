@@ -1,9 +1,5 @@
 # car-ppl-detection-app
 
-<p align = "center">
-"text-align: center"> 
-</p>
-
 ### :computer: App Url: http://object-detection-app.ajd7gvfbfdhfb8cg.westeurope.azurecontainer.io:5000/
 
 ### :busts_in_silhouette: Componentes
