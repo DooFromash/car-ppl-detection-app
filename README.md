@@ -14,13 +14,11 @@ This is a simple app to detect cars and ppl on images. The web page is gonna let
 
 ### :computer: Technologies used
 - <b>Deployment:</b> Microsoft Azure and Docker
-- <b>Lenguajes utilizados:</b> Python, HTML5 y CSS3.
-- <b>Librerías utilizadas:</b> Flask and Yolov5
-- <b>Framework:</b> Boostrap
-- <b>Presentación:</b> Canvas
-- <b>Control de versiones:</b> Git/GitHub
-- <b>Contenedor:</b> Docker
-- <b>Editores:</b> Jupyter, Visual Studio Code
+- <b>Languages:</b> Python, HTML5 y CSS3.
+- <b>Libraries:</b> Flask and Yolov5
+- <b>Version Control:</b> Git/GitHub
+- <b>Container:</b> Docker
+- <b>Editors:</b> Jupyter, Visual Studio Code
 
 ### Requirements
 These are the libraries used in the development of the project. They are in the file "requirements.txt" with their respective versions.
